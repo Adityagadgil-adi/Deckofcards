@@ -22,6 +22,7 @@ void setValue(int number){
 }
 void getCard(String card){
    this.card = card;
+    made a change;
 }
 
 }
